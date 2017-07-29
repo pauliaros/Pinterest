@@ -1,5 +1,5 @@
 # Proyecto: Pinterest
-Proyecto Final Sprint 6
+*Proyecto Final Sprint 6*
 
 Desarrollo de proyecto que consiste en recorrer un archivo json con uso de herramientas Sass, Gulp, npm.
 
