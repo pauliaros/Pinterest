@@ -12,6 +12,7 @@ h4 {
 	margin: 0;
 	margin-left: 15px;
 	margin-bottom: 8px;
+
 }
 
 h5{
@@ -97,7 +98,83 @@ nav ul li{
 	margin-left: 5px;
 }
 
-.nav-icon{
+.nav-icon,
+.fa-chevron-right{
 	font-size: 25px !important;
 	color: #b5b5b5;
+}
+
+.color1{
+	text-decoration: none;
+	display: inline-block;
+	color: #fff;
+    background: linear-gradient(to bottom right,#AD926D, #D7D1C8);
+    border-color: transparent;
+	padding: 5px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: white;
+	font-size: 15px;
+	margin: 7px;
+	border-radius: 8px;
+}
+
+.color2{
+	text-decoration: none;
+	display: inline-block;
+	color: #fff;
+    background: linear-gradient(to bottom right,#3987B7, #8CB9D5);
+    border-color: transparent;
+	padding: 5px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: white;
+	font-size: 15px;
+	margin: 7px;
+	border-radius: 8px;
+}
+
+.color3{
+	text-decoration: none;
+	display: inline-block;
+	color: #fff;
+    background: linear-gradient(to bottom right,#CF8CD5, #985ABA);
+    border-color: transparent;
+	padding: 5px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: white;
+	font-size: 15px;
+	margin: 7px;
+	border-radius: 8px;
+}
+
+.color4{
+	text-decoration: none;
+	display: inline-block;
+	color: #fff;
+    background: linear-gradient(to bottom right,#3ACE8B, #92E0BD);
+    border-color: transparent;
+	padding: 5px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: white;
+	font-size: 15px;
+	margin: 7px;
+	border-radius: 8px;
+}
+
+.color5{
+	text-decoration: none;
+	display: inline-block;
+	color: #fff;
+    background: linear-gradient(to bottom right,#E0DCA6, #E6DB39);
+    border-color: transparent;
+	padding: 5px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: white;
+	font-size: 15px;
+	margin: 7px;
+	border-radius: 8px;
 }
