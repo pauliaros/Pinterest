@@ -3,7 +3,7 @@
 
 Desarrollo de proyecto que consiste en recorrer un archivo json con uso de herramientas Sass, Gulp, npm.
 
-# Requerimientos Técnicos
+### Requerimientos Técnicos
 Dependecias de Desarrollo
 
 + gulp: ^3.9.1
